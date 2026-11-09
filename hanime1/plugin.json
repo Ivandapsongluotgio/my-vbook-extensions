@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "Hanime1",
+    "author": "MyVBook",
+    "version": 1,
+    "source": "https://hanime1.me",
+    "description": "Xem anime trên Hanime1.me",
+    "locale": "vi",
+    "regexp": "(https?://)?(www\\.)?hanime1\\.me/(watch|browse).*",
+    "type": "video",
+    "nsfw": true,
+    "encrypt": true
+  },
+  "script": {
+    "home": "home.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://hanime1.me",
+      "mode": "input",
+      "format": "text"
+    },
+    "thread_num": 2,
+    "delay": 1000
+  }
+}
