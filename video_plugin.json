@@ -1,16 +1,16 @@
-﻿{
+{
   "metadata": {
-    "author": "MyVBook",
+    "author": "Ivandapsongluotgio",
     "description": "Kho extension video cá nhân cho vBook"
   },
   "data": [
     {
       "name": "Hanime1",
-      "author": "MyVBook",
-      "path": "https://raw.githubusercontent.com/YOUR_USERNAME/my-vbook-extensions/main/hanime1/plugin.zip",
+      "author": "Ivandapsongluotgio",
+      "path": "https://raw.githubusercontent.com/Ivandapsongluotgio/my-vbook-extensions/main/hanime1/plugin.zip",
       "version": 1,
       "source": "https://hanime1.me",
-      "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/my-vbook-extensions/main/hanime1/icon.png",
+      "icon": "https://raw.githubusercontent.com/Ivandapsongluotgio/my-vbook-extensions/main/hanime1/icon.png",
       "description": "Xem anime trên Hanime1.me",
       "locale": "vi",
       "type": "video"

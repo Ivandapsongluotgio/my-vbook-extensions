@@ -1,4 +1,4 @@
-﻿# My vBook Extensions
+# My vBook Extensions
 
 Kho extension cá nhân cho ứng dụng vBook.
 
@@ -13,7 +13,7 @@ Kho extension cá nhân cho ứng dụng vBook.
 ### Cách 1: Cài từ catalog
 Thêm URL catalog vào vBook:
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/my-vbook-extensions/main/video_plugin.json
+https://raw.githubusercontent.com/Ivandapsongluotgio/my-vbook-extensions/main/video_plugin.json
 ```
 
 ### Cách 2: Cài thủ công qua Dev Server
